@@ -38,6 +38,10 @@ Ref: [UNET Model](https://github.com/matterport/Mask_RCNN)
 
 2. Jupyter Notebook, `Kaggle-training.ipyb`: Model Trained and Inference in Kaggle GPU Notebook
 
+3. Results:
+
+![Result](img/result.jpeg)
+
 
 ## Inference Image
 ![Inference Image](img/inferenceImage.jpeg)
